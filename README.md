@@ -1,16 +1,16 @@
-[![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://Hemant142.github.io)
 <h1 align="center">Hi 👋, I'm Hemant Yadav</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center"> I am a passionate Full Stack Web Developer adept in MERN stack, looking for an opportunity to work in an environment where I can utilize my skills and learn and grow more.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant142&label=Profile%20views&color=0e75b6&style=flat" alt="hemant142" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning *Full Stack Web Development**
 
-- 💬 Ask me about **react, Html,CSS & Javascript**
+- 💬 Ask me about **React, Html,CSS & Javascript**
 
 - 📫 How to reach me **yhemant203@gmail.com**
-- To know more about my work, please visit my <a href="https://Hemant142.github.io" target="_blank">Portfolio</a>
+- 👨‍💻To know more about my work, please visit my <a href="https://Hemant142.github.io" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
